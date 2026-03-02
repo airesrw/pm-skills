@@ -1,8 +1,6 @@
-# Product Compass — PM Marketplace
+# Product Management Marketplace
 
 65 skills and 36 commands across 8 plugins for Product Managers. Built for Claude Code and Claude Cowork, with skills compatible across AI coding assistants.
-
-Based on [The Product Compass Newsletter](https://www.productcompass.pm) by Paweł Huryn.
 
 ![Plugin overview](plugins_command_skills.webp)
 
@@ -373,9 +371,7 @@ After any command completes, it suggests relevant next commands — just follow 
 
 ## About
 
-These plugins are based on "The Ultimate ChatGPT Prompts Library for PMs (55)" from [The Product Compass Newsletter](https://www.productcompass.pm), rewritten for the Claude plugin architecture with commands, skills, and Cowork integration.
-
-Product Compass is a newsletter for Product Managers covering product strategy, discovery, AI for PMs, and hands-on frameworks.
+Curated by [The Product Compass Newsletter](https://www.productcompass.pm) by Paweł Huryn.
 
 ## License
 
