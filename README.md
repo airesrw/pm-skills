@@ -38,6 +38,8 @@ It’s about product judgment.
 
 **Plugins** group related skills and commands into installable packages. Each plugin covers a PM domain — discovery, strategy, execution, and so on. Installing the marketplace gives you all 8 plugins at once.
 
+![How skills work](how-skills-work.webp)
+
 Commands use skills. Some skills serve multiple commands. Some skills (like `prioritization-frameworks` or `opportunity-solution-tree`) are standalone references that Claude draws on whenever relevant — no command needed.
 
 Commands are designed to flow into each other, matching the PM workflow:
@@ -57,8 +59,6 @@ Commands are designed to flow into each other, matching the PM workflow:
 ```
 
 After any command completes, it suggests relevant next commands — just follow the prompts.
-
-![How skills work](how-skills-work.webp)
 
 ## Installation
 
